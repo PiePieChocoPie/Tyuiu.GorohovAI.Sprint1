@@ -33,7 +33,7 @@ namespace Tyuiu.GorohovAI.Sprint1.Task6.V4
 
             DataService ds = new DataService();
 
-            var result = ds.YOURFUNCTION();
+            var result = ds.CheckDoubleN("конус коннус секс");
             Console.WriteLine(result);
             Console.ReadKey();
         }

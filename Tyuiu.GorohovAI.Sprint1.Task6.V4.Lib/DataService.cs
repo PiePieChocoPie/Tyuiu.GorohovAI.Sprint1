@@ -7,7 +7,7 @@ namespace Tyuiu.GorohovAI.Sprint1.Task6.V4.Lib
         public string CheckDoubleN(string input)
         {
             string[] words = input.Split(new char[] { ' ', ',', '.', '!', '?', ';', ':', '-' }, StringSplitOptions.RemoveEmptyEntries);
-            string g;
+            string g = "";
             foreach (string word in words)
             {
                 string modifiedWord;
