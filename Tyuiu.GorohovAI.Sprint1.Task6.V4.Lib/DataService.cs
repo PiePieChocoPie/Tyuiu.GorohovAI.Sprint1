@@ -10,10 +10,16 @@ namespace Tyuiu.GorohovAI.Sprint1.Task6.V4.Lib
             string g;
             foreach (string word in words)
             {
+                string modifiedWord;
                 if (word.Contains("нн")) // Проверяем, содержит ли слово удвоенное "н"
                 {
-                    g += word;
+                    modifiedWord = word;
                 }
+                else
+                {
+                    modifiedWord = word.Replace("н", "нн");
+                }
+                g += modifiedWord + "";
             }
             return g;
         }
