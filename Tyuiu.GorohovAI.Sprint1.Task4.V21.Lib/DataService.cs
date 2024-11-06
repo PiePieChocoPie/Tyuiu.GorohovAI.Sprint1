@@ -6,7 +6,7 @@ namespace Tyuiu.GorohovAI.Sprint1.Task4.V21.Lib
     {
         public double Calculate(double x, double y)
         {
-            return Math.Abs((1+x*x)-y)/(x+y);
+            return Math.Abs(Math.Pow((1+x),2)-y)/(x+y);
         }
     }
 }
