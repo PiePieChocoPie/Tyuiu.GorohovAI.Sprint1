@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task2.V11.Test", "Tyuiu.GorohovAI.Sprint1.Task2.V11.Test\Tyuiu.GorohovAI.Sprint1.Task2.V11.Test.csproj", "{ECCEF7DF-059C-4F0F-B041-179332A6FC33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task3.V16.Lib", "Tyuiu.GorohovAI.Sprint1.Task3.V16.Lib\Tyuiu.GorohovAI.Sprint1.Task3.V16.Lib.csproj", "{92986653-13CC-4C97-BBAB-3553AFF87237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task3.V16", "Tyuiu.GorohovAI.Sprint1.Task3.V16\Tyuiu.GorohovAI.Sprint1.Task3.V16.csproj", "{51F04EBE-E822-4751-A767-9DAEB4595274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task3.V16.Test", "Tyuiu.GorohovAI.Sprint1.Task3.V16.Test\Tyuiu.GorohovAI.Sprint1.Task3.V16.Test.csproj", "{3E54F6BF-C3EF-4C26-ABA5-2FD55C6FDA42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +72,17 @@ Global
 		{ECCEF7DF-059C-4F0F-B041-179332A6FC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECCEF7DF-059C-4F0F-B041-179332A6FC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECCEF7DF-059C-4F0F-B041-179332A6FC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92986653-13CC-4C97-BBAB-3553AFF87237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92986653-13CC-4C97-BBAB-3553AFF87237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92986653-13CC-4C97-BBAB-3553AFF87237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92986653-13CC-4C97-BBAB-3553AFF87237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F04EBE-E822-4751-A767-9DAEB4595274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F04EBE-E822-4751-A767-9DAEB4595274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F04EBE-E822-4751-A767-9DAEB4595274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F04EBE-E822-4751-A767-9DAEB4595274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E54F6BF-C3EF-4C26-ABA5-2FD55C6FDA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E54F6BF-C3EF-4C26-ABA5-2FD55C6FDA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E54F6BF-C3EF-4C26-ABA5-2FD55C6FDA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E54F6BF-C3EF-4C26-ABA5-2FD55C6FDA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
