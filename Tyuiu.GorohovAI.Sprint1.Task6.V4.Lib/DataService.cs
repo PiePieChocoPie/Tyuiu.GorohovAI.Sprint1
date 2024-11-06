@@ -12,7 +12,7 @@ namespace Tyuiu.GorohovAI.Sprint1.Task6.V4.Lib
             {
                 if (word.Contains("нн")) 
                 {
-                    g += word + " ";
+                    g += word;
                 }
                
             }
