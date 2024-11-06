@@ -7,16 +7,21 @@ namespace Tyuiu.GorohovAI.Sprint1.Task6.V4.Lib
         public string CheckDoubleN(string input)
         {
             string[] words = input.Split(new char[] { ' ', ',', '.', '!', '?', ';', ':', '-' }, StringSplitOptions.RemoveEmptyEntries);
-            string g = "";
+            var result = new System.Text.StringBuilder();
+
             foreach (string word in words)
             {
-                if (word.Contains("нн")) 
+                if (word.Contains("нн"))
                 {
-                    g += word;
+                    if (result.Length > 0)
+                    {
+                        result.Append(" "); // Добавляем пробел перед словом, если это не первое слово
+                    }
+                    result.Append(word);
                 }
-               
             }
-            return g;
+
+            return result.ToString();
         }
     }
 }
