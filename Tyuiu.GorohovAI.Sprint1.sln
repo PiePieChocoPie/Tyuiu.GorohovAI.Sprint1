@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task4.V21.Test", "Tyuiu.GorohovAI.Sprint1.Task4.V21.Test\Tyuiu.GorohovAI.Sprint1.Task4.V21.Test.csproj", "{AF24FF35-E35A-4187-B346-1E933BD7322E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task5.V6.Lib", "Tyuiu.GorohovAI.Sprint1.Task5.V6.Lib\Tyuiu.GorohovAI.Sprint1.Task5.V6.Lib.csproj", "{3A62E979-B011-4F8A-B3D1-8A2758612D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task5.V6", "Tyuiu.GorohovAI.Sprint1.Task5.V6\Tyuiu.GorohovAI.Sprint1.Task5.V6.csproj", "{258D8D75-9B97-4FAB-991F-C15A0F4F54AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GorohovAI.Sprint1.Task5.V6.Test", "Tyuiu.GorohovAI.Sprint1.Task5.V6.Test\Tyuiu.GorohovAI.Sprint1.Task5.V6.Test.csproj", "{E1B3BB23-F691-495A-BCF0-F0BF9D25F172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +108,17 @@ Global
 		{AF24FF35-E35A-4187-B346-1E933BD7322E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF24FF35-E35A-4187-B346-1E933BD7322E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF24FF35-E35A-4187-B346-1E933BD7322E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A62E979-B011-4F8A-B3D1-8A2758612D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A62E979-B011-4F8A-B3D1-8A2758612D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A62E979-B011-4F8A-B3D1-8A2758612D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A62E979-B011-4F8A-B3D1-8A2758612D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258D8D75-9B97-4FAB-991F-C15A0F4F54AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258D8D75-9B97-4FAB-991F-C15A0F4F54AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258D8D75-9B97-4FAB-991F-C15A0F4F54AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258D8D75-9B97-4FAB-991F-C15A0F4F54AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B3BB23-F691-495A-BCF0-F0BF9D25F172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B3BB23-F691-495A-BCF0-F0BF9D25F172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B3BB23-F691-495A-BCF0-F0BF9D25F172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B3BB23-F691-495A-BCF0-F0BF9D25F172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
